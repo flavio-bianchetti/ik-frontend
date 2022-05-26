@@ -1,70 +1,71 @@
-# Getting Started with Create React App
+# IK Solution - Frontend
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+---
 
-## Available Scripts
+Este repositório contém o teste prático "_IK Solution - Frontend_", desafio técnico para a vaga de desenvolvedor Full Stack. Este projeto consiste na construção de uma agenda eletrônica, seguindo os requisitos abaixo.
 
-In the project directory, you can run:
+---
 
-### `npm start`
+### Requisitos: 
+-  Acessar uma tela com uma relação de compromissos com Nome, Data, Hora e o Título da Atividade agendada. A sequência das colunas pode ser trabalhada livremente.
+- Desenvolver uma tela de cadastro que permita a inclusão.
+- Desenvolver a tela o fluxo de alteração dos dados vinculados ao registro selecionado.
+- Criar a exclusão do registro.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
+### Profissional executor:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- _[Flávio Bianchetti](https://www.linkedin.com/in/flaviobianchetti/)_
 
-### `npm test`
+---
+### Tecnologias utilizadas na construção deste form:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<section>
+  <a
+    href="https://pt-br.reactjs.org/docs/getting-started.html"
+    target="_blank">
+    <img
+      align="center"
+      height="30"
+      src="https://img.shields.io/badge/React-563D7C?style=for-the-badge&logo=react&logoColor=61DAFB"
+    />
+  </a>
+</section>
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<!-- ### Página do formulário:
+- o aplicação pode ser acessada _[aqui]()_. -->
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Instalação:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+1. Abra o terminal, em um diretório de sua preferência, e faça o clone do projeto:
+```bash
+  git clone git@github.com:flavio-bianchetti/ik-frontend.git
+```
 
-### `npm run eject`
+2. Entre no diretório do projeto:
+```bash
+  cd ik-frontend
+```
+3. Instale as dependências:
+```bash
+  npm install
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+4. Inicie a aplicação:
+```bash
+  npm start 
+```
+---
+<!-- ### Problemas conhecidos não resolvidos:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Desafios e Aprendizados: -->
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### Considerações finais:
+- Gostaria de agradecer à _[IK Solution](https://www.ik.com.br/)_ e a toda a equipe pela oportunidade e pelo tempo dispensado na elaboração e avaliação deste teste técnico.
 
-## Learn More
+---
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+por _[Flávio Bianchetti - 2022](https://github.com/flavio-bianchetti)_.
