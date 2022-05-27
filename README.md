@@ -58,9 +58,19 @@ Este repositório contém o teste prático "_IK Solution - Frontend_", desafio t
   npm start 
 ```
 ---
-<!-- ### Problemas conhecidos não resolvidos:
+### Problemas encontrados não resolvidos:
+- Infelizmente, não consegui concluír este teste antes do prazo final.
+- A aplicação de frontend não está conectada com o backend.
+- As telas estão muito ruins e os componentes precisam ser melhor organizados.
+- Não foram feitos testes para o frontend.
+- O frontend não foi colocado no Heroku.
 
-### Desafios e Aprendizados: -->
+### Desafios e Aprendizados:
+- Neste projeto aprendi um pouco mais sobre o Heroku e que os componentes utilizados para o layout da página consomem muita memória e não são renderizados pelo Heroku para usuário comuns.
+- Preciso me dedicar mais ao deploy das aplicações.
+- Preciso melhorar a qualidade dos meus testes.
+- Preciso melhorar a qualidade dos meus commits.
+- Preciso me organizar melhor quando estiver desenvolvendo frontend e backend juntos.
 
 
 ### Considerações finais:
