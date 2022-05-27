@@ -1,8 +1,11 @@
 import React from 'react';
+import Bar from '../components/Bar';
+import Table from '../components/Table';
 
 const Schedule = () => (
   <div>
-    <h1>Schedule</h1>
+    <Bar />
+    <Table />
   </div>
 );
 
